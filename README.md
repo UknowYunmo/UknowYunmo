@@ -6,13 +6,14 @@
 4. ADSP (11.22) - :heavy_check_mark:
 5. 빅데이터 분석 기사 (필기 4.17, 실기 6.16?)
 6. 사회조사 분석사 2급 (필기 3.7, 실기 4.28?)
-7. 컴활 1급 (12.26, 1.?), GA (상시)
+7. GAIQ (상시) - :heavy_check_mark:
 8. SQLD (3.20)
 
-내년에 할거
+올해 목표
 1. 인턴
 2. 캐글, 공모전
-3. 자유 주제 분석
+3. 자유 주제 분석 
+(1) - 사람인 '데이터 분석' 검색 결과 분석
 
 <!--
 **UknowYunmo/UknowYunmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
