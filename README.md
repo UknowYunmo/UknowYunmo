@@ -12,9 +12,7 @@
 올해 목표
 1. 인턴
 2. 캐글, 공모전
-3. 자유 주제 분석
-
-(1) - 사람인 '데이터 분석' 검색 결과 분석
+3. 자유 주제 분석 - 2/4
 
 <!--
 **UknowYunmo/UknowYunmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
