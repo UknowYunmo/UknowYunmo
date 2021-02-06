@@ -13,6 +13,7 @@
 1. 인턴
 2. 캐글, 공모전
 3. 자유 주제 분석 - 2/4
+4. 피아노 'summer' 완주
 <!--
 **UknowYunmo/UknowYunmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
