@@ -1,6 +1,7 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)
+
 ### 인사말
 안녕하세요 👋 데이터로 이것저것 해보는 걸 좋아하는 구윤모입니다 :seedling:  
-
 - 한양대학교(ERICA) - 정보사회학과 / 신산업소프트웨어학과 (2021.08 졸업 예정)  
 - ITWILL 빅데이터 분석 기술을 활용한 딥러닝, 인공지능 알고리즘 분석가 양성과정 (10.20 ~ 3.30) 🕓
 
@@ -30,7 +31,10 @@
 ### Toy Project
 - #1 코로나19에도 립스틱 효과가 나타났을까?  
 - #2 '사람인' 공고를 통해 '데이터 분석가'에 대해 알 수 있을까?  
-- #3 pc방의 유혹으로부터 안전한 독서실은 어디에 있을까?
+- #3 pc방의 유혹으로부터 안전한 독서실은 어디에 있을까?  
+
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://loklee9.tistory.com/)](https://loklee9.tistory.com/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kooym5@gmail.com)](mailto:kooym5@gmail.com)
 
 <!--
 **UknowYunmo/UknowYunmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
