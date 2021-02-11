@@ -5,15 +5,15 @@
 3. ITWILL 빅데이터 분석 과정 (10.20 ~ 3.30) :clock4:
 4. ADSP (11.22) - :heavy_check_mark:
 5. GAIQ (상시) - :heavy_check_mark:
-6. 사회조사 분석사 2급 (필기 3.7, 실기 4.28?)
+6. 사회조사 분석사 2급 (필기 3.7, 실기 4.24)
 7. SQLD (3.20)
-8. 빅데이터 분석 기사 (필기 4.17, 실기 6.16?)
+8. 빅데이터 분석 기사 (필기 4.17, 실기 6.19)
 
 올해 목표
 1. 인턴
 2. 캐글, 공모전
-3. 자유 주제 분석 - 2/4
-4. 피아노 'summer' 완주
+3. 자유 주제 분석 - 3개/6개
+4. 피아노 'summer' 완주 (2/14 시작!)
 <!--
 **UknowYunmo/UknowYunmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
