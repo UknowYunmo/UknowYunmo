@@ -1,5 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUknowYunmo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### 인사말
 안녕하세요 👋 데이터로 이것저것 해보는 걸 좋아하는 구윤모입니다 :seedling:  
 - 한양대학교(ERICA) - 정보사회학과 / 신산업소프트웨어학과 (2021.08 졸업 예정)  
