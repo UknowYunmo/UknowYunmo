@@ -5,7 +5,7 @@
 - ITWILL 빅데이터 분석 기술을 활용한 딥러닝, 인공지능 알고리즘 분석가 양성과정
 
 ### 사용 언어  
-- SQL, Python, R.
+- SQL, Python, R
 
 ### 자격증
 1. 토익 (885) :heavy_check_mark:
