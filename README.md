@@ -22,14 +22,14 @@
 
 ### 2021년 목표
 1. 인턴
-2. 캐글,공모전 도전
+2. 캐글,공모전
 3. 자유 주제 분석 - 3개/6개
 
 ### Toy Project
 - #1 코로나19에도 립스틱 효과가 나타났을까? 
 - #2 '사람인' 공고를 통해 '데이터 분석가'에 대해 알 수 있을까?  
 - #3 pc방의 유혹으로부터 안전한 독서실은 어디에 있을까?  
-
+- #4 대전시 교통사고 위험지역은 어디일까? (ComPAS 공모전)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://loklee9.tistory.com/)](https://loklee9.tistory.com/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kooym5@gmail.com)](mailto:kooym5@gmail.com)
 
