@@ -12,8 +12,8 @@
 2. 新JLPT N2급 :heavy_check_mark:
 3. 정보처리기사 :heavy_check_mark:
 4. ADSP :heavy_check_mark:
-5. 사회조사 분석사 2급 준비중 🕓 (실기 4.24)
-6. SQLD 🕓
+5. SQLD :heavy_check_mark:
+6. 사회조사 분석사 2급 준비중 🕓 (실기[필답] 4.24, 실기[작업] 5.7 )
 7. 빅데이터 분석 기사 준비중 🕓 (필기 4.17, 실기 6.19)
 
 ### 봉사활동 및 해외경험
