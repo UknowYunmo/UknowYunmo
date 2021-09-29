@@ -1,9 +1,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUknowYunmo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### 인사말
 안녕하세요 👋 데이터로 이것저것 해보는 걸 좋아하는 구윤모입니다 :seedling:  
-- 한양대학교(ERICA) - 정보사회학과 / 신산업소프트웨어학과 (2021.08 졸업 예정)  
+- 한양대학교(ERICA) - 정보사회학과 / 신산업소프트웨어학과 ( ~2021.09 )  
 - ITWILL 빅데이터 분석 기술을 활용한 딥러닝, 인공지능 알고리즘 분석가 양성과정 (2020.10 ~ 2021.03)
-- NICE지니데이타 데이터사업실 공공사업팀 (2021.05~ )
+- NICE지니데이타 데이터사업실 공공사업팀 ( 2021.05~ )
 
 ### 사용 언어  
 - Python, SQL, R
@@ -15,15 +15,15 @@
 4. ADSP :heavy_check_mark:
 5. SQLD :heavy_check_mark:
 6. 사회조사 분석사 2급 :heavy_check_mark:
-7. 컴퓨터 활용능력 1급 준비중 🕓 (필기 8/2, 실기 9/11)
-8. 빅데이터 분석 기사 준비중 🕓 (실기 12/4)
+7. 컴퓨터 활용능력 1급 실기 준비중 🕓
+8. 빅데이터 분석 기사 실기 준비중 🕓
 
 ### 봉사활동 및 해외경험
 - 일본 워킹홀리데이 (2017.10 ~ 2018.08) 
 - 한일사회문화포럼 한국어 멘토링 (2019~ )
 
 ### 2021년 목표
-1. Tableau 또는 PowerBI 대시보드 실무에 활용해보기 진행중 🕓
+1. Tableau OR PowerBI
 2. 컴활1급 취득
 3. 빅분기 취득
 4. 매일 운동 :running:
